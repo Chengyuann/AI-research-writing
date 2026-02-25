@@ -792,4 +792,4 @@ Skills 安装到 `.claude/skills/` 后，Cursor 启动时会自动发现并提�
 | 用 Word 模板写投稿稿 | docx | 期刊/会议提供的 .docx 投稿模板；你的标题、作者、摘要、各节正文 | 「这是某期刊的 Word 模板，帮我把我的标题、摘要和正文填进去」「在模板里替换作者信息和 Section 1–4 的内容」 | 符合模板格式的 .docx 稿（可先解包再脚本替换占位内容，或按 OOXML 编辑后重新打包） |
 | 对 Word 稿做修订建议 | docx | 已写好的 .docx 论文或审稿意见 | 「按 redlining 流程，帮我在文档里标出需要改的几处」「把这段改成 tracked changes：原文删除、新文插入」 | 带修订痕迹的 .docx（仅标记改动处，便于作者接受/拒绝） |
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Leey21/awesome-ai-research-writing&type=Date)](https://star-history.com/#Leey21/awesome-ai-research-writing&Date)
+
